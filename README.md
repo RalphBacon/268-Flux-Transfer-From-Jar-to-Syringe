@@ -1,5 +1,5 @@
 # 268-Flux-Transfer-From-Jar-to-Syringe
-Easy way of transferring flux in a jar to a syringe
+Easy way of transferring flux in a jar to a syringe 
 
 ![Thumbnail-00026 (Phone)](https://github.com/RalphBacon/268-Flux-Transfer-From-Jar-to-Syringe/assets/20911308/2dd10a40-5019-49a2-abca-161f222e8525)  
 ### Video link:  https://youtu.be/hQgtOnj7dbQ  
